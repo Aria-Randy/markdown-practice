@@ -120,11 +120,11 @@ fixed | 뷰포트 | X
 동해물과 <span style="text-decoration: underline">백두산이 마르고</span> 닳도록<br/>  
 하느님이 보우하사 우리나라 만세
 
-<a href="http://" title="naver로 이동" target="_blank">네이버</a>
+<a href="http://www.naver.com" title="naver로 이동" target="_blank">네이버</a>
 
 ---
 
-<img width="90" src="http://----.png" alt="HEROPY" />
+<img width="90" src="https://heropy.blog/css/images/logo.png" alt="HEROPY" />
 
 
 # 수평선(Horizontal Rule)
